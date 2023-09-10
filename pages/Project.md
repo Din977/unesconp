@@ -100,4 +100,4 @@ When you are working on a project, and it does not seem to work after several at
 After several attempts, I realized it was because of the image size, which must be less than 1 MB and pixel size 1280x640. After applying it when it was successful it brings the feeling That you have completed half of the project.
 So, while working on this project, I learned some new learning and gained experience in developing websites. This project helps the new learner to visualize their data on a website with a beautiful interface.  
 
-{% include cb/project_the_Project.md %} 
+{% include cb/about_the_about.md %} 
