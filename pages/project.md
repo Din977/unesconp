@@ -89,7 +89,7 @@ After several attempts, I realized it was because of the image size, which must 
 So, while working on this project, I learned some new learning and gained experience in developing websites. This project helps the new learner to visualize their data on a website with a beautiful interface.  
 
 
-{% include cb/about_the_about.md %} 
+{% include cb/project_the_project.md %} 
 
 
 
