@@ -21,6 +21,12 @@ home-banner-image-position: # Default is center
 browse-buttons: true # true/false, adds previous/next arrows to item pages
 
 ##########
+# PROJECT PAGE
+#
+# see _data/metadata-config.csv to define the metadata fields that will display.
+browse-buttons: true # true/false, adds previous/next arrows to item pages
+
+##########
 # SUBJECTS PAGE
 #
 subjects-fields: subject;creator # set the field to be featured in the cloud (if left blank, none will be generated)
